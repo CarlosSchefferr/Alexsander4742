@@ -7,7 +7,6 @@
 		<img src="https://img.shields.io/badge/Plus-000000?style=for-the-badge&logo=cplusplus&logoColor=#00599C"/>
 		<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=#007396"/>
 		<img src="https://img.shields.io/badge/Julia-000000?style=for-the-badge&logo=julia&logoColor=#9558B2"/>
-		<img src="https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=#4B275F"/>
 		<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=#2C2D72"/>
 		<img src="https://img.shields.io/badge/GDScript-000000?style=for-the-badge&logo=godotengine&logoColor=#478CBF"/>
 	</p>
