@@ -6,7 +6,8 @@
 		<img src="https://img.shields.io/badge/Linguage-000000?style=for-the-badge&logo=c&logoColor=#A8B9CC"/>
 		<img src="https://img.shields.io/badge/Plus-000000?style=for-the-badge&logo=cplusplus&logoColor=#00599C"/>
 		<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=#007396"/>
-		<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=#3178C6"/>
+		<img src="https://img.shields.io/badge/Julia-000000?style=for-the-badge&logo=julia&logoColor=#9558B2"/>
+		<img src="https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=#4B275F"/>
 		<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=#2C2D72"/>
 		<img src="https://img.shields.io/badge/GDScript-000000?style=for-the-badge&logo=godotengine&logoColor=#478CBF"/>
 	</p>
@@ -20,6 +21,8 @@
 		<img height="32" src="https://simpleicons.org/icons/bootstrap.svg" title="BootStrap" />
 		<img height="32" src="https://simpleicons.org/icons/tailwindcss.svg" title="TailWind" />
 		<img height="32" src="https://simpleicons.org/icons/nodedotjs.svg" title="NodeJS" />
+		<img height="32" src="https://simpleicons.org/icons/typescript.svg"/>
+		<img height="32" src="https://simpleicons.org/icons/godotengine.svg"/>
 		<img height="32" src="https://simpleicons.org/icons/django.svg" title="Django" />
 		<img height="32" src="https://simpleicons.org/icons/flask.svg" title="Flask" />
 		<img height="32" src="https://simpleicons.org/icons/fastapi.svg" title="FastAPI" />
